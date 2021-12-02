@@ -1,5 +1,7 @@
 # buckfast
 
-node buckFast
+## Run code for a given number
+$ node buckFast
 
-node buckFastRemote
+## Run with data from remote server
+$ node buckFastRemote
