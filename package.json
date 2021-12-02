@@ -1,0 +1,12 @@
+{
+  "name": "buckfast",
+  "version": "1.0.0",
+  "description": "algo to print numbers divisible by 3 and 5",
+  "main": "index.js",
+  "scripts": {
+    "buckFast": "node buckFast.js",
+    "buckFastRemote": "node buckFastRemote.js"
+  },
+  "author": "luqman bolajoko",
+  "license": "ISC"
+}
