@@ -1,7 +1,7 @@
 # buckfast
 
 ## Run code for a given number
-$ node buckFast
+$ node buckFast.js
 
 ## Run with data from remote server
-$ node buckFastRemote
+$ node buckFastRemote.js
